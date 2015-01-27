@@ -8,3 +8,5 @@ A Singapore-based lawyer was engaged (kudos to one of my investors) to modify th
 I'll certainly welcome more contributors with background in Singapore commercial laws to chip in and improve this document. 
 
 Hopefully this will come in handy for aspiring entrepreneurs in Singapore. And of course, hats off to YC for open sourcing SAFE in the first place!
+
+(First released on my short blog post here: http://dotsconnection.com/singapore-safe/ )
