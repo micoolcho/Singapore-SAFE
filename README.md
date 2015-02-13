@@ -9,4 +9,4 @@ I'll certainly welcome more contributors with background in Singapore commercial
 
 Hopefully this will come in handy for aspiring entrepreneurs in Singapore. And of course, hats off to YC for open sourcing SAFE in the first place!
 
-(First released on my short blog post here: http://dotsconnection.com/singapore-safe/ )
+(First released on a blog post here: http://dotsconnection.com/singapore-safe-simple-agreement-future-equity/ )
