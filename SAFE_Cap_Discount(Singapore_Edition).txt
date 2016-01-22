@@ -16,10 +16,7 @@ Agreement for Equity-Participation
 
   1. Events
 
-  (a) Equity Financing. Upon the occurrence of an Equity Financing event, the Company shall issue to the Investor a number of Safe Preference Shares in the Company that is equal to the Purchase Amount divided by either: (1) the Safe Price or (2) the Discount Price, whichever calculation results in a greater number of Safe Preference Shares in the Company. For avoidance of doubt, the Investor would not be required to provide additional consideration (other than the Purchase Amount) in order to receive the Safe Preference Shares unless otherwise agreed by Investor and Company.
-
-  Illustration
-  Safe Preference Shares = Purchase Amount/ (Safe Price or Discount Price) [whichever price that results in a higher number of preference shares for the Investor]
+  (a) Equity Financing. If there is an Equity Financing before the expiration or termination of this instrument, the Company will automatically issue to the Investor a number of shares of Safe Preferred Stock equal to the Purchase Amount divided by the Conversion Price.
 
   In connection with the issuance of Safe Preference Shares by the Company to the Investor pursuant to this Section 1(a):
     (i) The Investor will execute and deliver to the Company all transaction documents related to the Equity Financing; provided, that such documents are the same documents to be entered into with the purchasers of Standard Preference Shares, with appropriate variations for the Safe Preference Shares if applicable, and provided further, that such documents have customary exceptions to any drag-along applicable to the Investor, including, without limitation, limited representations and warranties (which shall only relate to the title to the Safe Preference Shares) and limited liability and indemnification obligations (which shall also only relate to the title to the Safe Preference Shares) on the part of the Investor; and
@@ -40,6 +37,8 @@ Agreement for Equity-Participation
   "Change of Control" means (i) a transaction or series of related transactions in which any "person" or "group", becomes the "beneficial owner", directly or indirectly, of more than 50% of the outstanding voting securities of the Company, (ii) any reorganization, merger or consolidation of the Company, other than a transaction or series of related transactions in which the holders of the voting securities of the Company outstanding immediately prior to such transaction or series of related transactions retain, immediately after such transaction or series of related transactions, at least a majority of the total voting power represented by the outstanding voting securities of the Company or such other surviving or resulting entity or (iii) a sale, lease or other disposal of all or substantially all of the assets of the Company.
 
   "Company Capitalization" means the sum, as of immediately prior to the Equity Financing, of: (1) all Shares (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all outstanding vested and unvested options, warrants and other convertible securities, but excluding (A) this Agreement, (B) all other Safes, and (C) convertible promissory notes; and (2) all Ordinary Shares reserved and available for future grant under any equity incentive or similar plan of the Company, and/or any equity incentive or similar plan to be created or increased in connection with the Equity Financing.
+
+  "Conversion Price" means the either: (1) the Safe Price or (2) the Discount Price, whichever calculation results in a greater number of shares of Safe Preferred Stock.
 
   "Discount Price" means the price per share of the Standard Preference Shares subscribed for during the Equity Financing multiplied by the Discount Rate.
 
@@ -63,7 +62,7 @@ Agreement for Equity-Participation
 
   "Safe" means an instrument or agreement setting out the right to subscribe for Shares in the Company, similar in form and content to this Agreement, and entered by investors for the purpose of funding the Company’s business operations.
 
-  "Safe Preference Shares" means the preference shares issued to the Investor in an Equity Financing, having the identical rights, privileges, preferences and restrictions as the Standard Preference Shares, other than with respect to: (i) the per share liquidation preference and the conversion price for purposes of price-based anti-dilution protection, which will equal the Safe Price; and (ii) the basis for any dividend rights, which will be based on the Safe Price.
+  "Safe Preference Shares" means the preference shares issued to the Investor in an Equity Financing, having the identical rights, privileges, preferences and restrictions as the Standard Preference Shares, other than with respect to: (i) the per share liquidation preference and the conversion price for purposes of price-based anti-dilution protection, which will equal the Conversion Price; and (ii) the basis for any dividend rights, which will be based on the Conversion Price.
 
   "Safe Price" means the price per share equal to the Valuation Cap divided by the Company Capitalization.
 
