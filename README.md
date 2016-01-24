@@ -11,6 +11,8 @@ Updated version created by @micoolcho.
 
 - Will try to keep this txt file and Google Docs file in Sync.
 
+- Highly recomend you read YC's [Safe Primer](https://www.ycombinator.com/docs/SAFE_Primer.rtf) which explans why, whay, how and provides examples.
+
 ### by @micoolcho (Feb 13, 2015)
 A Singapore-based lawyer was engaged (kudos to one of my investors) to modify the original SAFE by YC in order to make it more relevant within Singapore context. There're no material changes for the commercial terms; only the US-centric parts (eg. references to the Securities Act) have been removed while a few Singapore-specific points were added. 
 
